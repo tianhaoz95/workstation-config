@@ -1,0 +1,4 @@
+package_update: true
+package_upgrade: true
+runcmd:
+  - [sudo, DEBIAN_FRONTEND=noninteractive, apt, install, --assume-yes, xfce4]

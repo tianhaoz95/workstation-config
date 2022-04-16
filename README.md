@@ -1,1 +1,1 @@
-# workstation-config
+# workstation config
